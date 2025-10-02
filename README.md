@@ -13,3 +13,5 @@ PROJECT 3 : [DATASET](https://samatrix-data.s3.ap-south-1.amazonaws.com/ML/diabe
 PROJECT 4 : [DATASET](https://samatrix-data.s3.ap-south-1.amazonaws.com/ML/online_shoppers_intention.csv)
 
 PROJECT 5 : [DATASET](https://drive.google.com/file/d/1_y809TlRO1wkqq4zdFBACywUaSsLenw3/view)
+
+Starbucks Beverage Components : [DATASET](https://github.com/harsh-kakadiya1/Machine-Learning-projects/blob/main/Starbucks%20Beverage%20Components/starbucks.csv)
