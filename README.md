@@ -16,4 +16,4 @@ PROJECT 5 : [DATASET](https://drive.google.com/file/d/1_y809TlRO1wkqq4zdFBACywUa
 
 Starbucks Beverage Components : [DATASET](https://github.com/harsh-kakadiya1/Machine-Learning-projects/blob/main/Starbucks%20Beverage%20Components/starbucks.csv)
 
-Walmart : https://github.com/harsh-kakadiya1/Machine-Learning-projects/tree/main/walmart
+Walmart : [DATASET ALREADY IN FOLDER](https://github.com/harsh-kakadiya1/Machine-Learning-projects/blob/main/walmart/Walmart.csv)
